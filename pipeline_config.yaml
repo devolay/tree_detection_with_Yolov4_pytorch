@@ -1,0 +1,16 @@
+pipeline_type: inference
+
+geoportal_endpoint: https://mapy.geoportal.gov.pl/wss/service/PZGIK/ORTO/WMS/StandardResolution
+
+
+img_height: 1024
+img_width: 1024
+lat_value: 0.0002
+long_value: 0.00030073421439060204
+temp_files_output_dir: D:\Studia\Inzynierka\repo\repo\temp
+
+weightfile: D:\Studia\Inzynierka\checkpoints\Yolov4_epoch3_46.pth
+use_cuda: True
+inference_output_dir: D:\Studia\Inzynierka\repo\repo\output
+conf_threshold: 0.3
+nms_threshold: 0.2

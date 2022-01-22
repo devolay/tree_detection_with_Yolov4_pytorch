@@ -1,0 +1,1 @@
+The repository uses https://github.com/roboflow-ai/pytorch-YOLOv4 repository which is based on Apache 2.0 licenses
