@@ -1,6 +1,6 @@
 pipeline_type: inference
 
-geoportal_endpoint: https://mapy.geoportal.gov.pl/wss/service/PZGIK/ORTO/WMS/StandardResolution
+geoportal_endpoint: https://mapy.geoportal.gov.pl/wss/service/PZGIK/ORTO/WMS/HighResolution
 
 
 img_height: 1024
